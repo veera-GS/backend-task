@@ -31,7 +31,7 @@ A simple and secure RESTful API built with Node.js and Express for managing pers
 - `POST api/taskapp/auth/signin` - Login and receive JWT
 
 ### ✅ Tasks (Protected + Rate Limited)
-- `GET api/taskapp/task/lait` - Get all tasks for the user
+- `GET api/taskapp/task/list` - Get all tasks for the user
 - `POST api/taskapp/task/create` - Create a new task
 - `POST api/taskapp/task/update` - Update a task
 - `POST api/taskapp/task/delete` - Delete a task
