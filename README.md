@@ -72,7 +72,7 @@ A simple and secure RESTful API built with Node.js and Express for managing pers
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/task-api.git
+git clone https://github.com/veera-GS/backend-task.git
 
 # Install dependencies
 npm install
