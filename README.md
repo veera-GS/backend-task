@@ -37,7 +37,7 @@ A simple and secure RESTful API built with Node.js and Express for managing pers
 - `POST api/taskapp/task/delete` - Delete a task
 
 ### 💡 Quotes (Protected + Rate Limited)
-- `GET get/quotes` - Get a motivational quote (max 5/min)
+- `GET api/taskapp/get/quotes` - Get a motivational quote (max 5/min)
 
 ---
 ### Assumptions
