@@ -8,7 +8,7 @@ A simple and secure RESTful API built with Node.js and Express for managing pers
 
 - User registration and login (JWT-based)
 - Create, read, update, and delete tasks
-- Rate-limited endpoint for motivational quotes
+- Rate-limited endpoint for motivational quotes and task management 
 - Basic security and input validation
 
 ---
