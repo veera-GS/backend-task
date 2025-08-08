@@ -86,7 +86,8 @@ JWT_SECRET=your_jwt_secret
 npm run start
 
 ```
-```Postman collection json
+```
+# Postman collection json
 {
   "info": {
     "name": "Task Manager API",
@@ -130,7 +131,7 @@ npm run start
         "header": [
           { "key": "Authorization", "value": "Bearer {{jwtToken}}" }
         ],
-        "url": { "raw": "{{baseUrl}}/api/taskapp/task/lait", "host": ["{{baseUrl}}"], "path": ["api", "taskapp", "task", "lait"] }
+        "url": { "raw": "{{baseUrl}}/api/taskapp/task/list", "host": ["{{baseUrl}}"], "path": ["api", "taskapp", "task", "lait"] }
       }
     },
     {
