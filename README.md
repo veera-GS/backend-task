@@ -82,6 +82,9 @@ PORT=3000
 MONGO_FULLURL=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 
+#Build the app
+npm run build
+
 # Run the app
 npm run start
 
