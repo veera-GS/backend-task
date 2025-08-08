@@ -6,11 +6,6 @@ interface Locals {
     token: string | undefined;
     email: string;
     password: string & number;
-    userPassword: string;
-    oldpassword: string;
-    newpassword: string;
-    emailId: string;
-    projectname: string;
     login: { email: string; token: string; password: string };
     reqdata: any,
     userdata: any
